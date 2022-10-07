@@ -1,2 +1,4 @@
 # bball-scoreboard-repo
- basketball scoreboard
+ Basketball scoreboard
+
+https://nasims-bball-scoreboard.netlify.app/
